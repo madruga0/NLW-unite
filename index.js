@@ -77,7 +77,7 @@ const criarNovoParticipante = (participante) => {
     >
       	Confirmar check-in
     </button>
-    `
+    ` 
   }
 
   return `
